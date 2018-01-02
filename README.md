@@ -1,18 +1,7 @@
-# docker-vue-sample
+# 使用方式
 
-> Use docker to build and release web application(base on vue-cli).
+> 把项目里面的文件复制到vue项目里面
 
-## Build Setup
+在daocloud里面创建项目
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+部署到自己的服务器
